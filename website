@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SolChad - No Utility, Pure Vibes</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #000;
+      color: #fff;
+    }
+    header {
+      background-color: #222;
+      padding: 50px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 3em;
+      margin: 0;
+      color: #00FF00; /* Solana green */
+    }
+    header p {
+      font-size: 1.5em;
+      color: #fff;
+    }
+    .cta-button {
+      padding: 15px 30px;
+      background-color: #00FF00;
+      color: #000;
+      text-decoration: none;
+      border-radius: 5px;
+      font-size: 1.2em;
+    }
+    .cta-button:hover {
+      background-color: #00CC00;
+    }
+    .tokenomics, .roadmap, .community {
+      padding: 30px;
+      text-align: center;
+    }
+    .section-title {
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+    footer {
+      background-color: #222;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    footer a {
+      color: #00FF00;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header Section -->
+  <header>
+    <h1>SolChad ($CHAD)</h1>
+    <p>No utility. Pure vibes. Chad-level gains.</p>
+    <a href="#" class="cta-button">Join the Chad Club</a>
+  </header>
+
+  <!-- About Section -->
+  <section>
+    <div class="about">
+      <h2 class="section-title">What is SolChad?</h2>
+      <p>SolChad is a meme coin built on the Solana blockchain, designed for the community. With zero utility, it's all about fun, fast transactions, and the most "Chad" meme vibes!</p>
+    </div>
+  </section>
+
+  </section>
+
+  <!-- Roadmap Section -->
+  <section class="roadmap">
+    <h2 class="section-title">Roadmap</h2>
+    <ul>
+      <li><strong>Phase 1:</strong> Meme campaign & hype build-up</li>
+      <li><strong>Phase 2:</strong> Airdrops, influencer partnerships</li>
+      <li><strong>Phase 3:</strong> Major pump on pump.fun, meme competitions</li>
+    </ul>
+  </section>
+
+  <!-- Community Section -->
+  <section class="community">
+    <h2 class="section-title">Join the Community</h2>
+    <p>Follow us on:</p>
+    <p>
+      <a href="https://discord.com" target="_blank">Discord</a> | 
+      <a href="https://twitter.com" target="_blank">Twitter</a> | 
+      <a href="https://telegram.org" target="_blank">Telegram</a>
+    </p>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2024 SolChad. All Rights Reserved.</p>
+  </footer>
+
+</body>
+</html>
